@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Power BI",
+    "cluster": "business_intelligence",
+    "related": ["Tableau", "Looker", "QlikView", "Excel", "Data Studio"]
+  },
+  {
+    "name": "Tableau",
+    "cluster": "business_intelligence",
+    "related": ["Power BI", "Looker", "QlikView"]
+  },
+  {
+    "name": "SAP S/4HANA",
+    "cluster": "erp_systems",
+    "related": ["SAP ERP", "SAP ECC", "Oracle ERP", "NetSuite", "Workday"]
+  },
+  {
+    "name": "SAP ERP",
+    "cluster": "erp_systems",
+    "related": ["SAP S/4HANA", "Oracle ERP", "NetSuite"]
+  },
+  {
+    "name": "NetSuite",
+    "cluster": "erp_systems",
+    "related": ["SAP ERP", "Oracle ERP", "Workday"]
+  },
+  {
+    "name": "PostgreSQL",
+    "cluster": "database",
+    "related": ["MySQL", "SQL Server", "Oracle DB", "SQLite"]
+  },
+  {
+    "name": "Snowflake",
+    "cluster": "data_warehouse",
+    "related": ["BigQuery", "Amazon Redshift", "Databricks"]
+  },
+  {
+    "name": "AWS",
+    "cluster": "cloud",
+    "related": ["Azure", "Google Cloud", "DigitalOcean"]
+  },
+  {
+    "name": "Azure",
+    "cluster": "cloud",
+    "related": ["AWS", "Google Cloud"]
+  },
+  {
+    "name": "Google Cloud",
+    "cluster": "cloud",
+    "related": ["AWS", "Azure"]
+  },
+  {
+    "name": "Python",
+    "cluster": "programming_languages",
+    "related": ["R", "Julia", "SQL"]
+  },
+  {
+    "name": "TypeScript",
+    "cluster": "programming_languages",
+    "related": ["JavaScript", "React", "Node.js"]
+  },
+  {
+    "name": "Adaptive Planning",
+    "cluster": "cpm_planning",
+    "related": ["Anaplan", "OneStream", "Host Analytics", "Planful", "Hyperion"]
+  },
+  {
+    "name": "Anaplan",
+    "cluster": "cpm_planning",
+    "related": ["Adaptive Planning", "OneStream", "Hyperion", "Tagetik"]
+  }
+]

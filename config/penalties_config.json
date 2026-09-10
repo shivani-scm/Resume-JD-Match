@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "penalties": {
+    "missing_critical_skill": {
+      "points": 8.0,
+      "max_cumulative": 24.0,
+      "description": "Deduction for each absent skill explicitly classified as mandatory/required."
+    },
+    "mandatory_certification_missing": {
+      "points": 10.0,
+      "max_cumulative": 20.0,
+      "description": "Deduction when a required professional license (e.g. CPA, PE) is missing."
+    },
+    "major_experience_gap": {
+      "points": 10.0,
+      "max_cumulative": 15.0,
+      "description": "Deduction when detected relevant tenure is less than 50% of mandatory requirement."
+    },
+    "mandatory_degree_missing": {
+      "points": 7.0,
+      "max_cumulative": 14.0,
+      "description": "Deduction when highest degree attained is below mandatory educational minimum."
+    },
+    "major_seniority_mismatch": {
+      "points": 7.0,
+      "max_cumulative": 14.0,
+      "description": "Deduction for acute seniority tier divergence (> 2 hierarchy levels difference)."
+    },
+    "unauthorized_work_constraint": {
+      "points": 25.0,
+      "max_cumulative": 25.0,
+      "description": "Deduction when a stated legal constraint (e.g. citizenship/clearance) cannot be verified."
+    }
+  }
+}

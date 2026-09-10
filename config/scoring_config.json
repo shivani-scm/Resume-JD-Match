@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "weights": {
+    "required_skills": 0.25,
+    "preferred_skills": 0.10,
+    "relevant_experience": 0.20,
+    "responsibilities": 0.15,
+    "title_seniority": 0.10,
+    "education": 0.05,
+    "certifications": 0.05,
+    "industry_domain": 0.05,
+    "ats_keyword_coverage": 0.05
+  },
+  "skill_match_quality_weights": {
+    "exact": 1.0,
+    "canonical_alias": 1.0,
+    "abbreviation": 0.95,
+    "fuzzy": 0.80,
+    "phrase_similarity": 0.70,
+    "taxonomy_related": 0.60,
+    "missing": 0.0
+  }
+}

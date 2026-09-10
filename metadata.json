@@ -1,0 +1,6 @@
+{
+  "name": "ResumeMatch",
+  "description": "Deterministic Resume & Job Description Analyzer with explainable scoring, rule-based NLP, and multi-level matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

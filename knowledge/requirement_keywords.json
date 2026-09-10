@@ -1,0 +1,67 @@
+{
+  "required_phrases": [
+    "required",
+    "must have",
+    "must",
+    "minimum",
+    "at least",
+    "required qualification",
+    "basic qualifications",
+    "mandatory",
+    "essential",
+    "prerequisite",
+    "qualifications",
+    "experience with",
+    "strong knowledge of",
+    "proven experience in",
+    "hands-on experience with",
+    "proficient in",
+    "demonstrated ability in"
+  ],
+  "preferred_phrases": [
+    "preferred",
+    "plus",
+    "nice to have",
+    "bonus",
+    "desirable",
+    "ideally",
+    "good to have",
+    "advantageous",
+    "preferred qualification",
+    "beneficial",
+    "familiarity with",
+    "working knowledge of"
+  ],
+  "responsibility_phrases": [
+    "responsible for",
+    "duties include",
+    "responsibilities include",
+    "will be responsible",
+    "you will",
+    "key responsibilities",
+    "what you'll do",
+    "the role"
+  ],
+  "constraint_phrases": [
+    "must be authorized to work",
+    "work authorization",
+    "us citizen",
+    "security clearance",
+    "ability to obtain clearance",
+    "sponsorship is not available",
+    "no visa sponsorship",
+    "on-site required",
+    "must be willing to relocate"
+  ],
+  "context_phrases": [
+    "about the team",
+    "our mission",
+    "company overview",
+    "fast-paced environment",
+    "culture",
+    "values",
+    "we offer",
+    "perks and benefits",
+    "equal opportunity employer"
+  ]
+}

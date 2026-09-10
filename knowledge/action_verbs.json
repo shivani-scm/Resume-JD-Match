@@ -1,0 +1,49 @@
+{
+  "verbs": [
+    {
+      "lemma": "develop",
+      "category": "creation",
+      "synonyms": ["build", "create", "construct", "engineer", "implement", "formulate", "design", "architect", "produce", "author"]
+    },
+    {
+      "lemma": "prepare",
+      "category": "execution",
+      "synonyms": ["compile", "assemble", "produce", "generate", "draft", "organize", "compose"]
+    },
+    {
+      "lemma": "forecast",
+      "category": "analysis",
+      "synonyms": ["project", "predict", "estimate", "model", "calculate", "extrapolate"]
+    },
+    {
+      "lemma": "analyze",
+      "category": "analysis",
+      "synonyms": ["evaluate", "assess", "examine", "investigate", "audit", "quantify", "review", "scrutinize"]
+    },
+    {
+      "lemma": "manage",
+      "category": "leadership",
+      "synonyms": ["lead", "oversee", "direct", "supervise", "orchestrate", "coordinate", "steer", "head"]
+    },
+    {
+      "lemma": "optimize",
+      "category": "optimization",
+      "synonyms": ["improve", "streamline", "enhance", "accelerate", "automate", "modernize", "refactor", "scale"]
+    },
+    {
+      "lemma": "collaborate",
+      "category": "teamwork",
+      "synonyms": ["partner", "liaise", "work cross-functionally", "interface", "cooperate"]
+    },
+    {
+      "lemma": "reconcile",
+      "category": "accounting",
+      "synonyms": ["balance", "settle", "verify", "audit", "align"]
+    },
+    {
+      "lemma": "deploy",
+      "category": "engineering",
+      "synonyms": ["release", "launch", "ship", "roll out", "provision"]
+    }
+  ]
+}

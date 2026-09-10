@@ -1,0 +1,189 @@
+[
+  {
+    "canonical": "Power BI",
+    "aliases": [
+      "powerbi",
+      "power-bi",
+      "microsoft power bi",
+      "ms power bi",
+      "pbi"
+    ],
+    "category": "business_intelligence"
+  },
+  {
+    "canonical": "Tableau",
+    "aliases": [
+      "tableau desktop",
+      "tableau server",
+      "tableau creator"
+    ],
+    "category": "business_intelligence"
+  },
+  {
+    "canonical": "Financial Planning and Analysis",
+    "aliases": [
+      "fp&a",
+      "fp and a",
+      "financial planning & analysis",
+      "financial planning and analysis",
+      "fpa"
+    ],
+    "category": "finance"
+  },
+  {
+    "canonical": "SQL",
+    "aliases": [
+      "structured query language",
+      "ansi sql",
+      "t-sql",
+      "tsql",
+      "pl/sql",
+      "plsql"
+    ],
+    "category": "database"
+  },
+  {
+    "canonical": "Python",
+    "aliases": [
+      "python 3",
+      "python3",
+      "py"
+    ],
+    "category": "programming"
+  },
+  {
+    "canonical": "TypeScript",
+    "aliases": [
+      "ts",
+      "typescript"
+    ],
+    "category": "programming"
+  },
+  {
+    "canonical": "JavaScript",
+    "aliases": [
+      "js",
+      "es6",
+      "ecmascript"
+    ],
+    "category": "programming"
+  },
+  {
+    "canonical": "Excel",
+    "aliases": [
+      "microsoft excel",
+      "ms excel",
+      "advanced excel",
+      "vba",
+      "excel macros",
+      "pivot tables"
+    ],
+    "category": "finance"
+  },
+  {
+    "canonical": "Adaptive Planning",
+    "aliases": [
+      "workday adaptive planning",
+      "adaptive insights",
+      "workday adaptive"
+    ],
+    "category": "finance_software"
+  },
+  {
+    "canonical": "Anaplan",
+    "aliases": [
+      "anaplan model builder",
+      "anaplan platform"
+    ],
+    "category": "finance_software"
+  },
+  {
+    "canonical": "SAP ERP",
+    "aliases": [
+      "sap",
+      "sap s/4hana",
+      "sap s4hana",
+      "sap ecc",
+      "sap r/3",
+      "sap fico",
+      "sap bw"
+    ],
+    "category": "erp_systems"
+  },
+  {
+    "canonical": "Oracle ERP",
+    "aliases": [
+      "oracle financials",
+      "oracle erp cloud",
+      "oracle e-business suite",
+      "netsuite",
+      "oracle netsuite"
+    ],
+    "category": "erp_systems"
+  },
+  {
+    "canonical": "Salesforce",
+    "aliases": [
+      "sfdc",
+      "salesforce crm",
+      "salesforce.com"
+    ],
+    "category": "crm"
+  },
+  {
+    "canonical": "AWS",
+    "aliases": [
+      "amazon web services",
+      "amazon aws"
+    ],
+    "category": "cloud"
+  },
+  {
+    "canonical": "Google Cloud",
+    "aliases": [
+      "gcp",
+      "google cloud platform"
+    ],
+    "category": "cloud"
+  },
+  {
+    "canonical": "Azure",
+    "aliases": [
+      "microsoft azure",
+      "ms azure"
+    ],
+    "category": "cloud"
+  },
+  {
+    "canonical": "Docker",
+    "aliases": [
+      "containerization",
+      "docker containers"
+    ],
+    "category": "devops"
+  },
+  {
+    "canonical": "Kubernetes",
+    "aliases": [
+      "k8s",
+      "container orchestration"
+    ],
+    "category": "devops"
+  },
+  {
+    "canonical": "React",
+    "aliases": [
+      "react.js",
+      "reactjs"
+    ],
+    "category": "frontend"
+  },
+  {
+    "canonical": "Node.js",
+    "aliases": [
+      "node",
+      "nodejs"
+    ],
+    "category": "backend"
+  }
+]

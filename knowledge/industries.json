@@ -1,0 +1,54 @@
+[
+  {
+    "canonical": "Finance",
+    "aliases": ["financial services", "wealth management", "capital markets", "asset management", "private equity", "venture capital", "hedge funds"]
+  },
+  {
+    "canonical": "Banking",
+    "aliases": ["commercial banking", "investment banking", "retail banking", "credit union", "fintech"]
+  },
+  {
+    "canonical": "Insurance",
+    "aliases": ["life insurance", "property and casualty", "health insurance", "reinsurance", "insurtech"]
+  },
+  {
+    "canonical": "SaaS",
+    "aliases": ["software as a service", "b2b saas", "cloud software", "enterprise software"]
+  },
+  {
+    "canonical": "Healthcare",
+    "aliases": ["health care", "hospitals", "medical devices", "pharmaceuticals", "biotech", "life sciences"]
+  },
+  {
+    "canonical": "Manufacturing",
+    "aliases": ["industrial manufacturing", "advanced manufacturing", "heavy industry", "fabrication"]
+  },
+  {
+    "canonical": "Automotive",
+    "aliases": ["auto", "electric vehicles", "ev", "oem automotive", "mobility"]
+  },
+  {
+    "canonical": "Energy",
+    "aliases": ["oil & gas", "renewables", "solar", "utilities", "clean tech", "clean energy"]
+  },
+  {
+    "canonical": "Retail",
+    "aliases": ["e-commerce", "ecommerce", "consumer goods", "cpg", "apparel"]
+  },
+  {
+    "canonical": "Logistics",
+    "aliases": ["supply chain", "freight", "warehousing", "3pl", "transportation"]
+  },
+  {
+    "canonical": "Technology",
+    "aliases": ["tech", "information technology", "internet", "high tech"]
+  },
+  {
+    "canonical": "Semiconductors",
+    "aliases": ["semiconductor", "chips", "hardware", "integrated circuits"]
+  },
+  {
+    "canonical": "Aerospace",
+    "aliases": ["defense", "aviation", "space", "aeronautics"]
+  }
+]

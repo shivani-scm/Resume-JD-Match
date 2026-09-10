@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Financial Analyst",
+    "track": "finance",
+    "seniority_level": 2,
+    "synonyms": ["finance analyst", "corporate financial analyst", "junior financial analyst"]
+  },
+  {
+    "title": "Senior Financial Analyst",
+    "track": "finance",
+    "seniority_level": 4,
+    "synonyms": ["sr financial analyst", "lead financial analyst", "sr. financial analyst"]
+  },
+  {
+    "title": "FP&A Analyst",
+    "track": "finance",
+    "seniority_level": 2,
+    "synonyms": ["fpa analyst", "financial planning analyst", "financial planning and analysis analyst"]
+  },
+  {
+    "title": "Senior FP&A Analyst",
+    "track": "finance",
+    "seniority_level": 4,
+    "synonyms": ["sr fp&a analyst", "sr. fp&a analyst", "lead fp&a analyst"]
+  },
+  {
+    "title": "FP&A Manager",
+    "track": "finance",
+    "seniority_level": 5,
+    "synonyms": ["manager fp&a", "manager financial planning and analysis"]
+  },
+  {
+    "title": "Finance Manager",
+    "track": "finance",
+    "seniority_level": 5,
+    "synonyms": ["manager corporate finance", "finance lead"]
+  },
+  {
+    "title": "Finance Director",
+    "track": "finance",
+    "seniority_level": 6,
+    "synonyms": ["director of finance", "director corporate finance", "fpa director"]
+  },
+  {
+    "title": "VP Finance",
+    "track": "finance",
+    "seniority_level": 7,
+    "synonyms": ["vice president finance", "vp of finance", "vp financial planning"]
+  },
+  {
+    "title": "Chief Financial Officer",
+    "track": "finance",
+    "seniority_level": 8,
+    "synonyms": ["cfo", "head of finance"]
+  },
+  {
+    "title": "Software Engineer",
+    "track": "engineering",
+    "seniority_level": 2,
+    "synonyms": ["software developer", "programmer", "full-stack developer", "application developer"]
+  },
+  {
+    "title": "Senior Software Engineer",
+    "track": "engineering",
+    "seniority_level": 4,
+    "synonyms": ["sr software engineer", "senior developer", "sr. software engineer"]
+  },
+  {
+    "title": "Lead Software Engineer",
+    "track": "engineering",
+    "seniority_level": 5,
+    "synonyms": ["tech lead", "technical lead", "engineering lead"]
+  },
+  {
+    "title": "Engineering Manager",
+    "track": "engineering",
+    "seniority_level": 5,
+    "synonyms": ["software engineering manager", "em", "development manager"]
+  },
+  {
+    "title": "Data Analyst",
+    "track": "analytics",
+    "seniority_level": 2,
+    "synonyms": ["bi analyst", "business intelligence analyst", "reporting analyst"]
+  },
+  {
+    "title": "Senior Data Analyst",
+    "track": "analytics",
+    "seniority_level": 4,
+    "synonyms": ["sr data analyst", "lead data analyst"]
+  },
+  {
+    "title": "Data Scientist",
+    "track": "analytics",
+    "seniority_level": 3,
+    "synonyms": ["ds", "machine learning scientist"]
+  },
+  {
+    "title": "Accounts Payable Specialist",
+    "track": "accounting_operations",
+    "seniority_level": 1,
+    "synonyms": ["ap clerk", "ap specialist", "accounts payable coordinator"]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "track": "engineering",
+    "seniority_level": 3,
+    "synonyms": ["mle", "ai engineer", "ml engineer"]
+  }
+]

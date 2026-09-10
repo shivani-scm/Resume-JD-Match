@@ -1,0 +1,51 @@
+{
+  "seniority_tiers": [
+    {
+      "tier": 1,
+      "name": "Intern / Entry / Specialist",
+      "keywords": ["intern", "entry", "specialist", "coordinator", "clerk", "associate i", "junior"]
+    },
+    {
+      "tier": 2,
+      "name": "Analyst / Engineer / Professional",
+      "keywords": ["analyst", "engineer", "developer", "consultant", "specialist ii"]
+    },
+    {
+      "tier": 3,
+      "name": "Mid-Level Professional",
+      "keywords": ["mid", "intermediate", "consultant ii", "analyst ii", "engineer ii"]
+    },
+    {
+      "tier": 4,
+      "name": "Senior Professional",
+      "keywords": ["senior", "sr", "sr.", "principal analyst", "senior consultant"]
+    },
+    {
+      "tier": 5,
+      "name": "Lead / Manager",
+      "keywords": ["lead", "manager", "team lead", "tech lead", "section manager"]
+    },
+    {
+      "tier": 6,
+      "name": "Senior Manager / Director",
+      "keywords": ["senior manager", "sr manager", "director", "associate director"]
+    },
+    {
+      "tier": 7,
+      "name": "Senior Director / VP",
+      "keywords": ["senior director", "vp", "vice president", "head of", "general manager"]
+    },
+    {
+      "tier": 8,
+      "name": "Executive / C-Suite",
+      "keywords": ["cfo", "cto", "ceo", "cro", "chief", "executive vice president", "evp", "svp"]
+    }
+  ],
+  "track_compatibility": {
+    "finance": ["finance", "accounting", "analytics"],
+    "accounting": ["accounting", "finance", "accounting_operations"],
+    "accounting_operations": ["accounting_operations", "accounting"],
+    "engineering": ["engineering", "analytics"],
+    "analytics": ["analytics", "engineering", "finance"]
+  }
+}

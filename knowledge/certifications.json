@@ -1,0 +1,65 @@
+[
+  {
+    "canonical": "CFA",
+    "full_name": "Chartered Financial Analyst",
+    "aliases": ["cfa charterholder", "cfa level 1", "cfa level 2", "cfa level 3", "chartered financial analyst"],
+    "domain": "finance",
+    "authority": "CFA Institute"
+  },
+  {
+    "canonical": "CPA",
+    "full_name": "Certified Public Accountant",
+    "aliases": ["cpa license", "certified public accountant", "active cpa"],
+    "domain": "accounting",
+    "authority": "AICPA / State Boards"
+  },
+  {
+    "canonical": "PMP",
+    "full_name": "Project Management Professional",
+    "aliases": ["project management professional", "pmi-pmp", "pmp certified"],
+    "domain": "management",
+    "authority": "PMI"
+  },
+  {
+    "canonical": "CSCP",
+    "full_name": "Certified Supply Chain Professional",
+    "aliases": ["certified supply chain professional", "apics cscp"],
+    "domain": "supply_chain",
+    "authority": "APICS / ASCM"
+  },
+  {
+    "canonical": "CPIM",
+    "full_name": "Certified in Planning and Inventory Management",
+    "aliases": ["certified in planning and inventory management", "apics cpim"],
+    "domain": "supply_chain",
+    "authority": "APICS / ASCM"
+  },
+  {
+    "canonical": "CMA",
+    "full_name": "Certified Management Accountant",
+    "aliases": ["certified management accountant", "ima cma"],
+    "domain": "finance",
+    "authority": "IMA"
+  },
+  {
+    "canonical": "FRM",
+    "full_name": "Financial Risk Manager",
+    "aliases": ["financial risk manager", "garp frm"],
+    "domain": "finance",
+    "authority": "GARP"
+  },
+  {
+    "canonical": "Six Sigma",
+    "full_name": "Six Sigma Certification",
+    "aliases": ["six sigma green belt", "six sigma black belt", "lean six sigma", "lssbb", "lssgb"],
+    "domain": "operations",
+    "authority": "ASQ / IASSC"
+  },
+  {
+    "canonical": "AWS Certified Solutions Architect",
+    "full_name": "AWS Certified Solutions Architect",
+    "aliases": ["aws solutions architect", "aws csa", "aws certified associate", "aws certified professional"],
+    "domain": "cloud",
+    "authority": "Amazon Web Services"
+  }
+]

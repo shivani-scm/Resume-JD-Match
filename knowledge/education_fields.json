@@ -1,0 +1,91 @@
+{
+  "degree_levels": [
+    {
+      "level": 1,
+      "name": "High School",
+      "aliases": ["high school", "ged", "secondary education", "high school diploma"]
+    },
+    {
+      "level": 2,
+      "name": "Associate",
+      "aliases": ["associate", "associate's", "associates degree", "aa", "as", "aas"]
+    },
+    {
+      "level": 3,
+      "name": "Bachelor's",
+      "aliases": ["bachelor", "bachelor's", "bachelors", "ba", "bs", "bsc", "b.s.", "b.a.", "bba", "undergraduate degree"]
+    },
+    {
+      "level": 4,
+      "name": "Master's",
+      "aliases": ["master", "master's", "masters", "ms", "ma", "msc", "m.s.", "m.a.", "graduate degree"]
+    },
+    {
+      "level": 4,
+      "name": "MBA",
+      "aliases": ["mba", "master of business administration", "m.b.a."]
+    },
+    {
+      "level": 5,
+      "name": "PhD",
+      "aliases": ["phd", "ph.d.", "doctorate", "doctoral", "doctor of philosophy"]
+    }
+  ],
+  "disciplines": [
+    {
+      "field": "Finance",
+      "cluster": "business",
+      "aliases": ["finance", "corporate finance", "financial management", "investments"]
+    },
+    {
+      "field": "Accounting",
+      "cluster": "business",
+      "aliases": ["accounting", "accountancy", "taxation", "auditing"]
+    },
+    {
+      "field": "Economics",
+      "cluster": "business",
+      "aliases": ["economics", "econometrics", "applied economics", "macroeconomics"]
+    },
+    {
+      "field": "Business",
+      "cluster": "business",
+      "aliases": ["business administration", "business management", "general business", "commerce"]
+    },
+    {
+      "field": "Computer Science",
+      "cluster": "stem",
+      "aliases": ["computer science", "cs", "software engineering", "computing"]
+    },
+    {
+      "field": "Data Science",
+      "cluster": "stem",
+      "aliases": ["data science", "data analytics", "business analytics"]
+    },
+    {
+      "field": "Information Systems",
+      "cluster": "stem",
+      "aliases": ["information systems", "mis", "computer information systems", "cis", "information technology"]
+    },
+    {
+      "field": "Mathematics",
+      "cluster": "stem",
+      "aliases": ["mathematics", "applied mathematics", "math"]
+    },
+    {
+      "field": "Statistics",
+      "cluster": "stem",
+      "aliases": ["statistics", "applied statistics", "biostatistics"]
+    },
+    {
+      "field": "Engineering",
+      "cluster": "stem",
+      "aliases": ["engineering", "electrical engineering", "mechanical engineering", "industrial engineering"]
+    },
+    {
+      "field": "Supply Chain",
+      "cluster": "operations",
+      "aliases": ["supply chain management", "logistics", "operations management"]
+    }
+  ]
+}

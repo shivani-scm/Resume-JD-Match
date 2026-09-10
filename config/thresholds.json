@@ -1,0 +1,69 @@
+{
+  "version": "1.0.0",
+  "score_bands": [
+    {
+      "label": "Exceptional Match",
+      "min_score": 90.0,
+      "max_score": 100.0,
+      "description": "Candidate demonstrates outstanding alignment with all core and preferred requirements."
+    },
+    {
+      "label": "Strong Match",
+      "min_score": 80.0,
+      "max_score": 89.9,
+      "description": "Candidate satisfies all mandatory criteria with high relevant experience."
+    },
+    {
+      "label": "Good Match",
+      "min_score": 70.0,
+      "max_score": 79.9,
+      "description": "Candidate meets primary qualifications with minor peripheral gaps."
+    },
+    {
+      "label": "Moderate Match",
+      "min_score": 60.0,
+      "max_score": 69.9,
+      "description": "Partial skill alignment or some experience deficiency."
+    },
+    {
+      "label": "Weak Match",
+      "min_score": 50.0,
+      "max_score": 59.9,
+      "description": "Notable gaps in required competencies or industry experience."
+    },
+    {
+      "label": "Poor Match",
+      "min_score": 0.0,
+      "max_score": 49.9,
+      "description": "Significant shortfall across core mandatory requirements."
+    }
+  ],
+  "recommendations": {
+    "high_priority": {
+      "label": "HIGH PRIORITY APPLICATION",
+      "min_score": 82.0,
+      "max_penalties": 0.0
+    },
+    "good": {
+      "label": "GOOD APPLICATION",
+      "min_score": 70.0,
+      "max_penalties": 8.0
+    },
+    "borderline": {
+      "label": "BORDERLINE",
+      "min_score": 55.0,
+      "max_penalties": 16.0
+    },
+    "low_priority": {
+      "label": "LOW PRIORITY",
+      "min_score": 0.0,
+      "max_penalties": 999.0
+    }
+  },
+  "matching_thresholds": {
+    "fuzzy_similarity_min": 0.85,
+    "jaro_winkler_min": 0.88,
+    "bm25_similarity_min": 0.40,
+    "responsibility_cosine_min": 0.45
+  }
+}

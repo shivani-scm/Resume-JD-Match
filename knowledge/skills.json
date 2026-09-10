@@ -1,0 +1,102 @@
+[
+  {
+    "canonical": "Financial Modeling",
+    "category": "finance",
+    "description": "Building abstract representations of real-world financial situations and forecasts."
+  },
+  {
+    "canonical": "Financial Planning and Analysis",
+    "category": "finance",
+    "description": "Budgeting, forecasting, and analytical activities that support company financial decisions."
+  },
+  {
+    "canonical": "Variance Analysis",
+    "category": "finance",
+    "description": "Analyzing difference between planned financial outcomes and actual financial results."
+  },
+  {
+    "canonical": "Forecasting",
+    "category": "finance",
+    "description": "Projecting future financial or operational performance based on historical trends."
+  },
+  {
+    "canonical": "Budgeting",
+    "category": "finance",
+    "description": "Creation and oversight of enterprise spending plans and resource allocation."
+  },
+  {
+    "canonical": "Corporate Finance",
+    "category": "finance",
+    "description": "Capital structuring, investment management, and corporate valuation."
+  },
+  {
+    "canonical": "General Ledger",
+    "category": "accounting",
+    "description": "Master record of company accounting transactions and balance sheet accounts."
+  },
+  {
+    "canonical": "Account Reconciliation",
+    "category": "accounting",
+    "description": "Verifying that two sets of financial records are in agreement."
+  },
+  {
+    "canonical": "GAAP Compliance",
+    "category": "accounting",
+    "description": "Adherence to Generally Accepted Accounting Principles."
+  },
+  {
+    "canonical": "Data Analysis",
+    "category": "analytics",
+    "description": "Inspecting, cleansing, transforming, and modeling data to discover insights."
+  },
+  {
+    "canonical": "Statistical Modeling",
+    "category": "analytics",
+    "description": "Mathematical models that embody statistical assumptions regarding sample data."
+  },
+  {
+    "canonical": "Machine Learning",
+    "category": "artificial_intelligence",
+    "description": "Developing algorithms capable of learning patterns from empirical data."
+  },
+  {
+    "canonical": "Natural Language Processing",
+    "category": "artificial_intelligence",
+    "description": "Computational techniques for processing and analyzing human natural language."
+  },
+  {
+    "canonical": "Software Architecture",
+    "category": "engineering",
+    "description": "High-level structuring of software systems and component interactions."
+  },
+  {
+    "canonical": "Full-Stack Development",
+    "category": "engineering",
+    "description": "End-to-end engineering of client-side web interfaces and server-side services."
+  },
+  {
+    "canonical": "REST API Design",
+    "category": "engineering",
+    "description": "Designing performant and scalable representational state transfer endpoints."
+  },
+  {
+    "canonical": "Project Management",
+    "category": "management",
+    "description": "Initiating, planning, executing, and closing work to achieve specific project goals."
+  },
+  {
+    "canonical": "Agile Methodology",
+    "category": "management",
+    "description": "Iterative software development, scrum ceremonies, and sprint execution."
+  },
+  {
+    "canonical": "Supply Chain Management",
+    "category": "operations",
+    "description": "Managing the flow of goods, data, and finances from procurement to delivery."
+  },
+  {
+    "canonical": "Strategic Planning",
+    "category": "strategy",
+    "description": "Defining long-term organizational direction and allocating capital resources."
+  }
+]
